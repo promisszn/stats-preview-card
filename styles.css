@@ -19,7 +19,7 @@ body {
     z-index: 1;
     background-color: hsl(244, 38%, 16%);
     margin: 101px auto;
-    min-width: 21rem;
+    width: 21rem;
 }
 
 
